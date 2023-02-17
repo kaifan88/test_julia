@@ -1,0 +1,3 @@
+submit_jobs.sh - submit jobs with passing the values in a for loop
+run_julia.sh - run julia script with assigning a variable
+test.jl - julia script to save the passed value to a txt file
